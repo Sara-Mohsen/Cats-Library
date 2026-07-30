@@ -27,7 +27,7 @@ export default function Navbar() {
           width={42}
           height={42}
         />
-        <span>Cats Library</span>
+        <span>Cats App</span>
       </Link>
 
       <nav className={`nav-links ${menuOpen ? "active" : ""}`}>
